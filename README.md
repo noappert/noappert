@@ -1,5 +1,4 @@
 ### Hey, i'm Aleod ✨
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/NolanAppert)](https://twitter.com/NolanAppert)
 [![discordcard](https://dcbadge.vercel.app/api/shield/860280517178032139?style=flat&theme=clean&compact=true)](https://discord.com/users/860280517178032139)
 
 
