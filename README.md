@@ -1,4 +1,4 @@
-### Hey, i'm Aleod ✨
+### Hey, i'm Aleod (Je suis Aleod pour les fr) ✨
 [![discordcard](https://dcbadge.vercel.app/api/shield/860280517178032139?style=flat&theme=clean&compact=true)](https://discord.com/users/860280517178032139)
 
 
