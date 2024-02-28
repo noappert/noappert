@@ -4,4 +4,4 @@
 
 ![usercard](https://github-readme-stats.vercel.app/api?username=noappertBD&show_icons=true&theme=github_dark_dimmed)
 <br>
-![codecard](https://github-readme-stats.vercel.app/api/top-langs/?username=noappertbd&layout=donut&theme=github_dark_dimmed)
+![codecard](https://github-readme-stats.vercel.app/api/top-langs/?username=noappertBD&layout=compact&theme=github_dark_dimmed)
